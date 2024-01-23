@@ -4,4 +4,4 @@
 
 ## Πώς;
 - Η λίστα ονομάτων από την στατιστική έρευνα για τα ελληνικά ονόματα του κύριου Χάρη Φουνταλή (https://www.foundalis.com/grk/EllinikaOnomata.html)
-- Η λίστα ονομάτων της στατιστικής έρευνας του κύριου Κασσέτα (https://users.sch.gr/kassetas/Names3.htm)
+- Η λίστα ονομάτων της στατιστικής έρευνας του κύριου Ανδρέα Κασσέτα (https://users.sch.gr/kassetas/Names3.htm)
